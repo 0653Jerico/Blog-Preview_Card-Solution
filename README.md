@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Blog Preview Card Repository](https://github.com/0653Jerico/Blog-Preview_Card-Solution)
+- Live Site URL: [Blog Preview Card Solution](https://0653jerico.github.io/Blog-Preview_Card-Solution/)
 
 ## My process
 
